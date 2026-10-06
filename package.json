@@ -1,0 +1,11 @@
+{
+  "name": "turn-me-into-the-bourgeioisie",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.47.0"
+  }
+}
